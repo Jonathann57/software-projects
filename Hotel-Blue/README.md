@@ -23,7 +23,11 @@ Está diseñado para la gestión de un hotel. Permite gestionar la recepción de
 Para ejecutarlo localmente debe seguir estos pasos:
 
 1. **Clonar el repositorio:**
-   Abra su terminal (como Git Bash) y ejecute:
+
+   Abra su terminal y ejecute:
+
    ```bash
-   git clone git@github.com:DiegoKas05/SistemaHotelero.git
-   
+   git clone https://github.com/Jonathann57/software-projects.git
+   cd software-projects/Hotel-Blue
+   ```
+
